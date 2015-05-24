@@ -1,0 +1,7 @@
+[user]
+	name = hoey
+	email = nznial@gmail.com
+[push]
+	default = simple
+[core]
+	editor = gvim -f
