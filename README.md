@@ -51,3 +51,6 @@ Dotbot (or this repository) to help other people discover Dotbot.
 [azd325_dotfiles]: https://github.com/Azd325/dotfiles
 [bluekeys_dotfiles]: https://github.com/bluekeys/.dotfiles
 [wazery_dotfiles]: https://github.com/wazery/dotfiles
+
+
+    git clone https://github.com/hoeysoft/dotfiles.git .dotfiles
