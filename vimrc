@@ -1,12 +1,9 @@
 "marked mV
-
-execute pathogen#infect()
+source ~/.dotfiles/bundles.vim
 
 colorscheme solarized
-nnoremap <F12> :source $MYVIMRC<CR>
 
 set noswapfile
-"tabs 4, space, by default
 set ts=4 sts=4 sw=4 expandtab
 
 "basic options
