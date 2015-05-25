@@ -10,4 +10,4 @@
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
-    - [vim +PluginInstall +qall, Installing vim plugins by Vundle.vim]
+    - [vim -u NONE -N -S bundles.vim +PluginInstall +qall, Installing vim plugins]
