@@ -8,7 +8,7 @@ alias vim=gvim
 alias ws="cd ~/Dropbox/workspace"
 alias kv="cd /Applications/Kivy.app/Contents/Resources"
 
-refword() {
+function refword () {
     cd ~/Downloads/anki_media
     python ~/Dropbox/workspace/refword/refword.py
 }
