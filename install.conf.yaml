@@ -1,12 +1,13 @@
 - clean: ['~']
 
 - link:
-        ~/.dotfiles: ''
-        ~/.bash_profile: bash_profile
-        ~/.bashrc: bashrc
-        ~/.gitconfig: gitconfig
-        ~/.vim: vim/
-        ~/.vimrc: vimrc
+    ~/.dotfiles: ''
+    ~/.bash_profile: bash_profile
+    ~/.bashrc: bashrc
+    ~/.gitconfig: gitconfig
+    ~/.vim: vim/
+    ~/.vimrc: vimrc
 
 - shell:
-      - [git submodule update --init --recursive, Installing submodules]
+    - [git submodule update --init --recursive, Installing submodules]
+    - [vim +PluginInstall +qall, Installing vim plugins by Vundle.vim]
