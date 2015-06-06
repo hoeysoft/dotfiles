@@ -296,7 +296,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/gitrepo/dotfiles/iterm2</string>
+	<string>~/gitrepo/playmatsys</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -327,11 +327,11 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>503 401 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>248 689 890 651 0 0 2560 1417 </string>
+	<string>87 41 2364 1376 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>733 477 890 651 0 0 2560 1417 </string>
+	<string>473 233 1330 1026 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>419 4 890 651 0 0 2560 1417 </string>
+	<string>419 129 1660 1276 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>461 97 890 651 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -536,7 +536,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>80</integer>
+			<integer>120</integer>
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Color</key>
@@ -903,7 +903,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>25</integer>
+			<integer>40</integer>
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
@@ -1070,6 +1070,8 @@
 			<string>/Users/hoey</string>
 		</dict>
 	</array>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
+	<true/>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
