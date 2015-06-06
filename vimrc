@@ -13,5 +13,4 @@ set ruler
 set exrc
 
 set ts=4 sts=4 sw=4 expandtab
-set hlsearch
 set incsearch

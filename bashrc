@@ -4,7 +4,6 @@ export BOOST_BUILD_PATH=$BOOST_ROOT/stage/lib
 export PATH=$PATH:$BOOST_ROOT
 export PS1="\h:\u \[\e[1;32m\w\e[m\] \$ "
 
-alias vim=gvim
 alias ws="cd ~/Dropbox/workspace"
 alias kv="cd /Applications/Kivy.app/Contents/Resources"
 
