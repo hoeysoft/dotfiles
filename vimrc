@@ -1,9 +1,10 @@
 source ~/.dotfiles/bundles.vim
 
-colorscheme solarized
-
-syntax on
 filetype plugin indent on
+syntax on
+
+set background=dark
+colorscheme solarized
 
 set hidden
 set noswapfile
