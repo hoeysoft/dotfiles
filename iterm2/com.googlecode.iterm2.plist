@@ -327,7 +327,7 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>503 401 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>87 41 2364 1376 0 0 2560 1417 </string>
+	<string>87 391 1330 1026 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>473 233 1330 1026 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -342,6 +342,8 @@
 	<string>524 28 890 651 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 7</key>
 	<string>545 5 890 651 0 0 2560 1417 </string>
+	<key>NeverWarnAboutShortLivedSessions_ADB93C11-B558-4170-9A80-51080587E29A</key>
+	<true/>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -897,11 +899,11 @@
 			<key>Normal Font</key>
 			<string>Monaco 18</string>
 			<key>Option Key Sends</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>Prompt Before Closing 2</key>
 			<integer>0</integer>
 			<key>Right Option Key Sends</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>Rows</key>
 			<integer>40</integer>
 			<key>Screen</key>
