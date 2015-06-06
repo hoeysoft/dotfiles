@@ -15,7 +15,10 @@ Plugin 'godlygeek/tabular.git'
 Plugin 'kien/ctrlp.vim.git'
 
 " Colorschemes
-Bundle 'altercation/vim-colors-solarized.git'
+Plugin 'altercation/vim-colors-solarized.git'
+
+" Syntax Highlightings
+Plugin 'zaiste/tmux.vim.git'
 
 "-------------------------------------------------------------------------------
 "Vundle Cleanup
