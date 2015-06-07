@@ -327,9 +327,9 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>503 401 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>87 391 1330 1026 0 0 2560 1417 </string>
+	<string>87 391 1770 1026 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>473 233 1330 1026 0 0 2560 1417 </string>
+	<string>383 391 1770 1026 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>419 129 1660 1276 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -538,7 +538,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>120</integer>
+			<integer>160</integer>
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Color</key>
