@@ -5,7 +5,7 @@ root: ~/.dotfiles
 
 windows:
   - main: 
-      layout: main-vertical
+      layout: main-horizontal
       panes:
         - vim +E
         - git pull; git status
