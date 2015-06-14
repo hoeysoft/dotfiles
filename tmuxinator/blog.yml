@@ -6,7 +6,7 @@ root: ~/gitrepo/hoeysoft.github.io/
 windows:
   - editor: vim +E
   - monitor:
-      layout: main-vertical
+      layout: even-vertical
       panes:
-        - sleep 10; open http://localhost:4000/
+        - sleep 5; open http://localhost:4000/; bundle exec guard
         - git pull; bash rundev.sh
