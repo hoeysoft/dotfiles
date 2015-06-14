@@ -1,0 +1,11 @@
+# ~/.tmuxinator/dot.yml
+
+name: dot
+root: ~/.dotfiles
+
+windows:
+  - main: 
+      layout: main-vertical
+      panes:
+        - vim +E
+        - git pull; git status
