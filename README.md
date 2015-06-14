@@ -1,6 +1,6 @@
 # hoeysoft/dotfiles
 Another dotfiles for me, managed by [dotbot].  
-Read an explanatory [blog] for understanding what's going on.  
+Read the explanatory [blog] for understanding what's going on.  
 It explains about other options well.
 
 ## Vim
