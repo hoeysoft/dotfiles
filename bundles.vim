@@ -11,6 +11,7 @@ Plugin 'tpope/vim-sensible.git'
 Plugin 'tpope/vim-unimpaired.git'
 Plugin 'tpope/vim-surround.git'
 Plugin 'tpope/vim-dispatch.git'
+Plugin 'tpope/vim-fugitive.git'
 Plugin 'godlygeek/tabular.git'
 Plugin 'kien/ctrlp.vim.git'
 
