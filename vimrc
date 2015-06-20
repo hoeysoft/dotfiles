@@ -10,11 +10,7 @@ set hidden
 set noswapfile
 
 set number
-set ruler
-set exrc
-
 set ts=4 sts=4 sw=4 expandtab
-set incsearch
 
 "iTerm2 and tmux, insert mode cursor settings
 if exists('$ITERM_PROFILE')
