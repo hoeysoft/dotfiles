@@ -12,6 +12,11 @@ set noswapfile
 set number
 set ts=4 sts=4 sw=4 expandtab
 
+if has("autocmd")
+  autocmd BufReadPost fugitive://* set bufhidden=delete
+endif
+set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
+
 "iTerm2 and tmux, insert mode cursor settings
 if exists('$ITERM_PROFILE')
   if exists('$TMUX')
