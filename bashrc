@@ -8,7 +8,8 @@ then
     tmux attach -t "$USER" || tmux new -s "$USER"
 fi
 
-export EDITOR=vim #for tmuixnator
+export EDITOR=vim # for tmuixnator
+export CLASSPATH=".:/usr/local/Cellar/antlr/4.5/antlr-4.5-complete.jar:$CLASSPATH"
 
 alias ws="cd ~/Dropbox/workspace"
 alias kv="cd /Applications/Kivy.app/Contents/Resources"
