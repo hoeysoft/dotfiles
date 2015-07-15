@@ -13,4 +13,5 @@
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
-    - [vim -u NONE -N -S bundles.vim +PluginInstall +qall, Installing vim plugins]
+    - [git clone https://github.com/VundleVim/Vundle.vim.git vim/bundle/Vundle.vim, Installing Vundle]
+    - [vim -u NONE -N -S bundles.vim +PluginInstall +qall, Installing Vim plugins]
