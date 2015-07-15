@@ -10,12 +10,13 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'tpope/vim-sensible.git'
 Plugin 'tpope/vim-unimpaired.git'
 Plugin 'tpope/vim-surround.git'
+Plugin 'tpope/vim-commentary.git'
 Plugin 'tpope/vim-dispatch.git'
 Plugin 'tpope/vim-fugitive.git'
 Plugin 'godlygeek/tabular.git'
 Plugin 'kien/ctrlp.vim.git'
 Plugin 'jrozner/vim-antlr'
-
+"
 " Colorschemes
 Plugin 'altercation/vim-colors-solarized.git'
 
